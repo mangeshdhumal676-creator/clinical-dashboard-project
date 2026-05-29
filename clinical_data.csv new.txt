@@ -1,0 +1,11 @@
+Patient_ID,Age,Gender,Treatment,Adverse_Event,Severity
+P001,45,Male,Drug A,Headache,Mild
+P002,52,Female,Drug B,Nausea,Moderate
+P003,36,Male,Drug A,Fever,Mild
+P004,60,Female,Drug B,Dizziness,Severe
+P005,49,Male,Drug A,Fatigue,Moderate
+P006,33,Female,Drug B,Headache,Mild
+P007,55,Male,Drug A,Nausea,Moderate
+P008,41,Female,Drug B,Fever,Mild
+P009,29,Male,Drug A,Dizziness,Severe
+P010,65,Female,Drug B,Fatigue,Moderate
